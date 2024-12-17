@@ -1,19 +1,11 @@
 ---
-title: "Getting started with the Documentation Theme for Jekyll"
-keywords: sample homepage
-tags: [getting_started]
+title: "NNCC; KnightBot Commands"
+keywords: KnightBot Commands Twitch
+tags: [KnightBot]
 sidebar: mydoc_sidebar
-permalink: index.html
-summary: This is the Nerd Navy Command Center landing page as well as the official home of the KnightBot documentation.
+permalink: /pages/kb/commads.md
+summary: KnightBot has numerous commands which follow the syntax "!Command [Optional Parameters]". Commands do not cost channel points to use.
 ---
-
-## Welcome
-
-This page is heavily WIP and is being changed constantly.
-The remainder of this page offers various examples of Markdown usage and formatting.
-
-
-
 
 # h1 Heading 8-)
 ## h2 Heading
