@@ -4,7 +4,7 @@ topnav:
 - title: Topnav
   items:
     - title: Home
-      url: index.html
+      url: index.md
 
 #Topnav dropdowns
 topnav_dropdowns:
@@ -13,10 +13,10 @@ topnav_dropdowns:
     - title: KnightBot
       folderitems:
         - title: Commands
-          url: /commands.html
+          url: /commands.md
         - title: Redemptions
-          url: /redemptions.html
+          url: /redemptions.md
         - title: Events
-          url: /events.html
+          url: /events.md
 
 # Copyright 2021 Google LLC
