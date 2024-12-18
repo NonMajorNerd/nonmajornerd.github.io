@@ -1,0 +1,24 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Navigation
+  folders:
+
+  - title: Knightbot
+    output: web, pdf
+    folderitems:
+
+    - title: Commands
+      url: /commands.html
+      output: web, pdf
+
+    - title: Events
+      url: /events.html
+      output: web, pdf
+
+    - title: Redemptions
+      url: /redemptions.html
+      output: web, pdf
+
+# Copyright 2021 Google LLC

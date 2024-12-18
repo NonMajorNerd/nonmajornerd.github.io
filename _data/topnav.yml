@@ -14,9 +14,9 @@ topnav_dropdowns:
       folderitems:
         - title: Commands
           url: commands.html
-        - title: Redemptions
-          url: redemptions.md
         - title: Events
           url: events.md
+        - title: Redemptions
+          url: redemptions.md
 
 # Copyright 2021 Google LLC
