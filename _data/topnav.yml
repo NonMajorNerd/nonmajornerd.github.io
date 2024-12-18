@@ -10,23 +10,13 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
- #   - title: Jekyll Help
- #     folderitems:
- #       - title: Jekyll Talk
- #         external_url: https://talk.jekyllrb.com
- #       - title: Jekyll documentation
- #         external_url: http://jekyllrb.com/docs/home/
- #       - title: Jekyll on Stack Overflow
- #         external_url: http://stackoverflow.com/questions/tagged/jekyll
- #       - title: Jekyll on my blog
- #         external_url: http://idratherbewriting.com/category-jekyll/
     - title: KnightBot
       folderitems:
         - title: Commands
-          url: commands.md
+          url: /commands.md
         - title: Redemptions
-          url: redemptions.md
+          url: /redemptions.md
         - title: Events
-          url: events.md
+          url: /events.md
 
 # Copyright 2021 Google LLC
