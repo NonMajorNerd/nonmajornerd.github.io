@@ -33,12 +33,12 @@ exclude:
   - vendor
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Jekyll documentation theme
+feedback_subject_line: gnaw
 
-feedback_email: tomjoht@gmail.com
+feedback_email: nope@nope.nope
 # used as a contact email for the Feedback link in the top navigation bar
 
-# feedback_disable: true
+ feedback_disable: true
 # if you uncomment the previous line, the Feedback link gets removed
 
 # feedback_text: "Need help?"
@@ -71,7 +71,7 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-      comments: true
+      comments: false
       # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
       search: true
       sidebar: home_sidebar
@@ -109,12 +109,6 @@ sidebars:
 description: "Home for all things Nerd Navy including KnightBot documentation."
 # the description is used in the feed.xml file
 
-# needed for sitemap.xml file only
-# url: http://idratherbewriting.com
-# baseurl: /documentation-theme-jekyll
-
-
 github: [metadata]
-
 
 # Copyright 2021 Google LLC
