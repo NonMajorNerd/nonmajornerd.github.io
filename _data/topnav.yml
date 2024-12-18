@@ -13,10 +13,10 @@ topnav_dropdowns:
     - title: KnightBot
       folderitems:
         - title: Commands
-          url: /pages/knightbot/commands.md
+          url: /commands.md
         - title: Redemptions
-          url: /pages/knightbot/redemptions.md
+          url: /redemptions.md
         - title: Events
-          url: /pages/knightbot/events.md
+          url: /events.md
 
 # Copyright 2021 Google LLC
