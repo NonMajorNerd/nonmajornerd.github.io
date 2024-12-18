@@ -1,7 +1,7 @@
 ---
-title: "Getting started with the Documentation Theme for Jekyll"
+title: "Nerd Navy Command Center"
 keywords: sample homepage
-tags: [getting_started]
+tags: [Nerd Navy]
 sidebar: mydoc_sidebar
 permalink: index.html
 summary: This is the Nerd Navy Command Center landing page as well as the official home of the KnightBot documentation.
