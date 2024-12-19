@@ -6,5 +6,5 @@ sidebar: mydoc_sidebar
 permalink: elitedangerous.html
 toc: false
 ---
-<p><center>
-<img src="https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/Elite/NMNMariner.png?raw=true" width="250px" max-width="250px"><br>	
+
+![Minion](\_assets\GFX\Elite\nmnmariner.png)
