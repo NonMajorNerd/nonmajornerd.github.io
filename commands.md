@@ -21,7 +21,7 @@ summary: KnightBot has a number of commands you can enter via chat which follow 
 
 ## Artifact Commands
 
-### !KeepArchetype
+### !KeepArtifact
 > _Alaises; !KArtifact, !KeepArt, !KArt_
 >
 > This command is used after activating an Artifact Map Redemtpion to keep your character's current artifact and discard the newly discovered artifact. 
