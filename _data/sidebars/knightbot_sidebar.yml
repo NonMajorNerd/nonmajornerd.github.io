@@ -30,12 +30,16 @@ entries:
       url: /archetypes.html
       output: web, pdf
       
+    - title: Artifacts
+      url: /artifacts.html
+      output: web, pdf
+      
+    - title: Characters
+      url: /characters.html
+      output: web, pdf
+      
     - title: Commands
       url: /commands.html
-      output: web, pdf
-
-    - title: Events
-      url: /events.html
       output: web, pdf
 
     - title: Redemptions

@@ -2,7 +2,7 @@
 title: "Elite Dangerous"
 keywords: nerd navy elite dangerous fleet carrier mariner
 tags: [Nerd_Navy, Elite_Dangerous]
-sidebar: knightbot_sidebar
+sidebar: mydoc_sidebar
 permalink: elitedangerous.html
 toc: false
 ---

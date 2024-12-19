@@ -6,7 +6,7 @@ output: web
 topnav_title: Nerd Navy Command Center
 # this appears on the top navigation bar next to the home button
 
-site_title: Knightbot documentation
+site_title: Nerd Navy Command Center
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: Copyright 2024 NonMajorNerd
@@ -101,6 +101,7 @@ defaults:
 
 sidebars:
 - home_sidebar
+- knightbot_sidebar
 - mydoc_sidebar
 - product1_sidebar
 - product2_sidebar
