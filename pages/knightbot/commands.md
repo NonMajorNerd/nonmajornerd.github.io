@@ -3,10 +3,10 @@ title: "KnightBot Commands"
 keywords: sample homepage
 tags: [Nerd_Navy, KnightBot]
 sidebar: knightbot_sidebar
-permalink: commands.html
+permalink: commands.md
 folder: knightbot
 toc: false
-summary: KnightBot has numerous commands which follow the syntax **'!Command [Optional Parameters]'**. Commands are not case sensetive and do not cost channel points to use.
+summary: KnightBot has a number of chat commands which follow the syntax '!Command [Parameters]'. Commands are not case sensetive and do not cost channel points to use.
 ---
 
 # Character Commands
