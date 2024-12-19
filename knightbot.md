@@ -1,5 +1,5 @@
 ---
-title: "KnightBot"
+title: "KnightBot Overview"
 keywords: nerd navy knightbot twitch channel bot chat
 tags: [Nerd_Navy, KnightBot]
 sidebar: knightbot_sidebar
