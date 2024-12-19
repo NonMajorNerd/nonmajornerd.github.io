@@ -4,7 +4,6 @@ keywords: nerd navy knightbot twitch channel bot chat
 tags: [Nerd_Navy, KnightBot]
 sidebar: knightbot_sidebar
 permalink: commands.html
-toc: false
 summary: KnightBot has a number of chat commands which follow the syntax '!Command [Parameters]'. Commands are not case sensetive and do not cost channel points to use.
 ---
 
