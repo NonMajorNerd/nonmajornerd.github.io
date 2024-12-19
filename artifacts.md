@@ -36,12 +36,12 @@ summary: KnightBot generates a pool of Artifacts which modify your Character's s
 
 | Image | Artifact | Description | Fortitude | Reflex | Willpower |
 |:-----:|:-------- |:----------- |:---------:|:------:|:---------:| 
-| ![Warlord Helmet](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/warlord-helmet.png?raw=true) | Warlord Helmet | The menacing helmet of a dark knight. | 1 | 0 | 1 |
+| ![Cracked Helmet](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/cracked-helm.png?raw=true) | Cracked Helmet | An iron helm with a substantial crack. | 1 | 0 | 1 |
+| ![Horned Helmet](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/horned-helmet.png?raw=true) | Horned Helmet | An imposing helmet with two horns. | -1 | 0 | 1 |
+| ![Loaded Dice](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/loaded-dice.png?raw=true) | Loaded Dice | A set of dice which always come up 7. | -1 | 1 | 1 |
 | ![Round Shield](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/wooden-shield.png?raw=true) | Round Shield | A sturdy oaken shield with an metal umbo. | 1 | -1 | 0 |
 | ![Snake Totem](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/snake-totem.png?raw=true) | Snake Totem | An ornate snake figurine hewn from cedar | 0 | 1 | 1 |
-| ![Cracked Helmet](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/cracked-helm.png?raw=true) | Cracked Helmet | An iron helm with a substantial crack. | 1 | 0 | 1 |
-| ![Loaded Dice](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/loaded-dice.png?raw=true) | Loaded Dice | A set of dice which always come up 7. | -1 | 1 | 1 |
-| ![Horned Helmet](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/horned-helmet.png?raw=true) | Horned Helmet | An imposing helmet with two horns. | -1 | 0 | 1 |
+| ![Warlord Helmet](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/warlord-helmet.png?raw=true) | Warlord Helmet | The menacing helmet of a dark knight. | 1 | 0 | 1 |
 
 
 ### 25% 
@@ -50,12 +50,12 @@ summary: KnightBot generates a pool of Artifacts which modify your Character's s
 
 | Image | Artifact | Description | Fortitude | Reflex | Willpower |
 |:-----:|:-------- |:----------- |:---------:|:------:|:---------:| 
-| ![Warrior Bust](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/stone-bust.png?raw=true) | Warrior Bust | A bust of the famous warrior Violetta. | 2 | -1 | 0 |
-| ![Elven Arrow](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/elven-arrow.png?raw=true) | Elven Arrow | A magical arrow from an elven wode | 0 | 2 | 1 |
-| ![Wizard Staff](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/wizard-staff.png?raw=true) | Wizard Staff | An arcane staff carved from gnarled wood. | -1 | 0 | 2 |
-| ![Bone Knife](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/bone-knife.png?raw=true) | Bone Knife | A sharp stone blade tied to some sort of bone. | 1 | 1 | -1 |
 | ![Battle Standard](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/battle-standard.png?raw=true) | Battle Standard | A huge canvas banner proudly displaying a long forgotten standard. | 1 | 1 | 1 |
+| ![Bone Knife](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/bone-knife.png?raw=true) | Bone Knife | A sharp stone blade tied to some sort of bone. | 1 | 1 | -1 |
+| ![Elven Arrow](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/elven-arrow.png?raw=true) | Elven Arrow | A magical arrow from an elven wode | 0 | 2 | 1 |
 | ![Long Bow](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/long-bow.png?raw=true) | Long Bow | An ornately carved wooden war bow. | 0 | 3 | 0 |
+| ![Warrior Bust](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/stone-bust.png?raw=true) | Warrior Bust | A bust of the famous warrior Violetta. | 2 | -1 | 0 |
+| ![Wizard Staff](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/wizard-staff.png?raw=true) | Wizard Staff | An arcane staff carved from gnarled wood. | -1 | 0 | 2 |
 
 ### 10%
 
@@ -64,4 +64,8 @@ summary: KnightBot generates a pool of Artifacts which modify your Character's s
 
 | Image | Artifact | Description | Fortitude | Reflex | Willpower |
 |:-----:|:-------- |:----------- |:---------:|:------:|:---------:| 
-| Image | Artifact | Description | Fortitude | Reflex | Willpower |
+| ![All the Swords](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/all-the-swords.png?raw=true) | All the Swords | Almost certainly too many swords. | 3 | -1 | -1 |
+| ![Bat Mask](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/bat-mask.png?raw=true) | Bat Mask | A strange dark-blue mask with pointed ears. | 2 | 1 | -2 |
+| ![Beehive](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/beehive.png?raw=true) | Beehive | .. Oops, all bees! | -1 | -1 | -1 |
+| ![Hide Armor](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/hide-armor.png?raw=true) | Hide Armor | Simple armor made of rough animal skins and furs. | 1 | 1 | -1 |
+| ![Traffic Cone](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/traffic-cone.png?raw=true) | Traffic Cone | An orange and white traffic cone - safety first! | 0 | -1 | 1 |
