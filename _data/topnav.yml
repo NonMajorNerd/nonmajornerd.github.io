@@ -13,7 +13,7 @@ topnav_dropdowns:
     - title: KnightBot
       folderitems:
         - title: Commands
-          url: commands.md
+          url: commands.html
         - title: Events
           url: events.html
         - title: Redemptions
