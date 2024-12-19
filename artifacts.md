@@ -50,7 +50,12 @@ summary: KnightBot generates a pool of Artifacts which modify your Character's s
 
 | Image | Artifact | Description | Fortitude | Reflex | Willpower |
 |:-----:|:-------- |:----------- |:---------:|:------:|:---------:| 
-| Image | Artifact | Description | Fortitude | Reflex | Willpower |
+| ![Warrior Bust](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/stone-bust.png?raw=true) | Warrior Bust | A bust of the famous warrior Violetta. | 2 | -1 | 0 |
+| ![Elven Arrow](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/elven-arrow.png?raw=true) | Elven Arrow | A magical arrow from an elven wode | 0 | 2 | 1 |
+| ![Wizard Staff](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/wizard-staff.png?raw=true) | Wizard Staff | An arcane staff carved from gnarled wood. | -1 | 0 | 2 |
+| ![Bone Knife](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/bone-knife.png?raw=true) | Bone Knife | A sharp stone blade tied to some sort of bone. | 1 | 1 | -1 |
+| ![Battle Standard](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/battle-standard.png?raw=true) | Battle Standard | A huge canvas banner proudly displaying a long forgotten standard. | 1 | 1 | 1 |
+| ![Long Bow](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/long-bow.png?raw=true) | Long Bow | An ornately carved wooden war bow. | 0 | 3 | 0 |
 
 ### 10%
 
