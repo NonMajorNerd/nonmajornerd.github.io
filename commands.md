@@ -1,7 +1,7 @@
 ---
 title: "NNCC; KnightBot Commands"
-keywords: KnightBot Commands Twitch
-tags: [Nerd Navy] [KnightBot]
+keywords: sample homepage
+tags: [Nerd Navy]
 sidebar: mydoc_sidebar
 permalink: commands.html
 summary: KnightBot has numerous commands which follow the syntax '!Command [Optional Parameters]'. Commands are not case sensetive and do not cost channel points to use.
