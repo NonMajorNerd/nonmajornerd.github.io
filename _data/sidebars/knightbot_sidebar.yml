@@ -22,7 +22,7 @@ entries:
   - title: KnightBot
     output: web, pdf
     folderitems:
-    - title: KnightBot Home
+    - title: Overview
       url: /knightbot.html
       output: web
 
