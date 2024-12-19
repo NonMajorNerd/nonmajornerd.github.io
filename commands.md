@@ -11,17 +11,15 @@ summary: KnightBot has a number of chat commands which follow the syntax '!Comma
 # Character Commands
 
 ## !MyCharacter
-_Alaises; !MyCharacter, !Character, !MyChar, !MChar, !Char, !MC_
+> _Alaises; !MyCharacter, !Character, !MyChar, !MChar, !Char, !MC_
 
-+ stuff
-  + things
+> Displays the Character Card for your character on stream and broadcasts the Character Text for your character in chat.
 ___
 
 ## !ReName _[Name]_
-_Alaises; !RName, !Name, !RN_
+> _Alaises; !RName, !Name, !RN_
 
-+ stuff
-  + things
+> Will change your character name to the provided name. If no name is provided or if the name "Random" is provided, a random name will be chosen for your character.
 ___
 
 # Archetype Commands
