@@ -5,8 +5,6 @@ topnav:
   items:
     - title: Home
       url: index.html
-    - title: Elite Dangerous
-      url: elitedangerous.html
     - title: KnightBot
       url: knightbot.html
 #Topnav dropdowns

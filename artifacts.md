@@ -4,7 +4,7 @@ keywords: nerd navy knightbot twitch channel bot chat
 tags: [Nerd_Navy, KnightBot]
 sidebar: knightbot_sidebar
 permalink: artifacts.html
-summary: KnightBot generates a pool of Artifacts which modify your Character's stats. Characters can hunt for these Artifacts using the Artifact Map redemption.
+summary: KnightBot generates a pool of Artifacts which modify your Character's stats. Characters can hunt for these Artifacts using the Artifact Map Redemption.
 ---
 
 ## Overview
