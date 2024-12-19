@@ -1,6 +1,6 @@
 ---
 title: "KnightBot Commands"
-keywords: sample homepage
+keywords: nerd navy knightbot twitch channel bot chat commands
 tags: [Nerd_Navy, KnightBot]
 sidebar: knightbot_sidebar
 permalink: commands.html
@@ -12,44 +12,40 @@ summary: KnightBot has a number of chat commands which follow the syntax '!Comma
 
 ## !MyCharacter
 > _Alaises; !MyCharacter, !Character, !MyChar, !MChar, !Char, !MC_
-
+>
 > Displays the Character Card for your character on stream and broadcasts the Character Text for your character in chat.
-___
+
 
 ## !ReName _[Name]_
 > _Alaises; !RName, !Name, !RN_
-
+>
 > Will change your character name to the provided name. If no name is provided or if the name "Random" is provided, a random name will be chosen for your character.
-___
+
 
 # Archetype Commands
 
 ## !ReplaceArchetype
-_Alaises; !ReplaceArch, !RArchetype, !RArch_
+> _Alaises; !ReplaceArch, !RArchetype, !RArch_
+> 
+> This command is used after activating a Archetype Redemtpion to replace your character's current archetype with the newly rolled archetype. 
 
-+ stuff
-  + things
-___
 
 ## !KeepArchetype
-_Alaises; !KeepArch, !KArchetype, !KArch_
+> _Alaises; !KeepArch, !KArchetype, !KArch_
+> 
+> This command is used after activating a Archetype Redemtpion to keep your character's current archetype and discard the newly rolled archetype. 
 
-+ stuff
-  + things
-___
 
 # Artifact Commands
 
 ## !ReplaceArtifact
-_Alaises; !ReplaceArt, !RArt
+> _Alaises; !ReplaceArt, !RArt
+> 
+> This command is used after activating an Artifact Map Redemtpion to replace your character's current artifact with the newly discovered artifact. 
 
-+ stuff
-  + things
-___
+
 
 ## !KeepArchetype
-_Alaises; !KArtifact, !KeepArt, !KArt_
-
-+ stuff
-  + things
-___
+> _Alaises; !KArtifact, !KeepArt, !KArt_
+> 
+> This command is used after activating an Artifact Map Redemtpion to keep your character's current artifact and discard the newly discovered artifact. 
