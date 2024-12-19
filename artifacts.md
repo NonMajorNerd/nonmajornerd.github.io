@@ -16,15 +16,15 @@ summary: Every stream KnightBot generates a pool of Artifacts which modify your 
 
 ## Guaranteed Artifacts
 
-> These artifacts are always discoverable.
+> These Artifacts are always discoverable and most have one modifier of +/- 1.
 
 | Image | Artifact | Description | Fortitude | Reflex | Willpower |
 |:-----:|:-------- |:----------- |:---------:|:------:|:---------:| 
 | ![Ancient Bust](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/philosopher-bust.png?raw=true) | Ancient Bust | A bust of the famous philosopher Borroni. | 0 | 0 | 1 |
 | ![Boots of Speed](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/wingfoot.png?raw=true) | Boots of Speed | Leather boots adorned with magical wings. | 0 | 1 | 0 |
-| ![Spiked Club](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/spiked-club.png?raw=true)  | Spiked Club | A wooden club with vicious spikes at one end. | 1 | 0 | 0 |
 | ![Cracked Mask](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/cracked-mask.png?raw=true)  | Cracked Mask | A painted ceramic mask with a substantial crack. | 0 | 0 | 1 |
 | ![Hunting Bolas](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/hunting-bolas.png?raw=true)  | Hunting Bolas | Two stones on either end of interconnected cords. | 0 | 1 | 0 |
+| ![Spiked Club](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/spiked-club.png?raw=true)  | Spiked Club | A wooden club with vicious spikes at one end. | 1 | 0 | 0 |
 | ![Stone Spear](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/stone-spear.png?raw=true)  | Stone Spear | A razor-sharp stone fixed to a long wooden handle. | 1 | 0 | 0 |
 | ![Tribal Pendant](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/tribal-pendant.png?raw=true)  | Tribal Pendant | A primitive necklace with a refined crystal pendant. | 0 | 0 | 2 |
 
@@ -32,6 +32,25 @@ summary: Every stream KnightBot generates a pool of Artifacts which modify your 
 
 ### 50%
 
+> These Artifacts each have a 50% chance to be added to the pool and can have two modifiers of +/- 1.
+
+| Image | Artifact | Description | Fortitude | Reflex | Willpower |
+|:-----:|:-------- |:----------- |:---------:|:------:|:---------:| 
+| Image | Artifact | Description | Fortitude | Reflex | Willpower |
+
 ### 25% 
+	
+> These Artifacts each have a 25% chance to be added to the pool and can have one modifier of +/- 1 and one modifier of +/- 2, or 3 modifiers of +/- 1.
+
+| Image | Artifact | Description | Fortitude | Reflex | Willpower |
+|:-----:|:-------- |:----------- |:---------:|:------:|:---------:| 
+| Image | Artifact | Description | Fortitude | Reflex | Willpower |
 
 ### 10%
+
+> These Artifacts each have a 10% chance to be added to the pool and have varied modifiers.
+
+
+| Image | Artifact | Description | Fortitude | Reflex | Willpower |
+|:-----:|:-------- |:----------- |:---------:|:------:|:---------:| 
+| Image | Artifact | Description | Fortitude | Reflex | Willpower |
