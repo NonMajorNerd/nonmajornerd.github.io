@@ -12,6 +12,8 @@ topnav_dropdowns:
   folders:
     - title: KnightBot
       folderitems:
+        - title: Archetypes
+          url: archetypes.html
         - title: Commands
           url: commands.html
         - title: Events

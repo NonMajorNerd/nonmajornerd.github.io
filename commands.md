@@ -37,7 +37,7 @@ summary: KnightBot has a number of chat commands which follow the syntax '!Comma
 # Artifact Commands
 
 ## !ReplaceArtifact
-> _Alaises; !ReplaceArt, !RArt
+> _Alaises; !ReplaceArt, !RArt_
 
 > This command is used after activating an Artifact Map Redemtpion to replace your character's current artifact with the newly discovered artifact. 
 

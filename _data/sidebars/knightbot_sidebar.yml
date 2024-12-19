@@ -26,6 +26,10 @@ entries:
       url: /commands.html
       output: web
 
+    - title: Archetypes
+      url: /archetypes.html
+      output: web, pdf
+      
     - title: Commands
       url: /commands.html
       output: web, pdf
