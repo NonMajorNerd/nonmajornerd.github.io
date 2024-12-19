@@ -4,7 +4,7 @@ keywords: nerd navy knightbot twitch channel bot chat
 tags: [Nerd_Navy, KnightBot]
 sidebar: knightbot_sidebar
 permalink: artifacts.html
-summary: Every stream KnightBot generates a pool of Artifacts which modify your Character's stats. You can hunt for these Artifacts by using the Artifact Map redemption.
+summary: KnightBot generates a pool of Artifacts which modify your Character's stats. Characters can hunt for these Artifacts using the Artifact Map redemption.
 ---
 
 ## Overview
@@ -16,7 +16,7 @@ summary: Every stream KnightBot generates a pool of Artifacts which modify your 
 
 ## Guaranteed Artifacts
 
-> These Artifacts are always discoverable and most have one modifier of +/- 1.
+> These Artifacts are always discoverable and generally have one modifier of +/- 1.
 
 | Image | Artifact | Description | Fortitude | Reflex | Willpower |
 |:-----:|:-------- |:----------- |:---------:|:------:|:---------:| 
@@ -32,15 +32,21 @@ summary: Every stream KnightBot generates a pool of Artifacts which modify your 
 
 ### 50%
 
-> These Artifacts each have a 50% chance to be added to the pool and can have two modifiers of +/- 1.
+> These Artifacts each have a 50% chance to be added to the pool and generally have two modifiers of +/- 1.
 
 | Image | Artifact | Description | Fortitude | Reflex | Willpower |
 |:-----:|:-------- |:----------- |:---------:|:------:|:---------:| 
-| Image | Artifact | Description | Fortitude | Reflex | Willpower |
+| ![Warlord Helmet](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/warlord-helmet.png?raw=true) | Warlord Helmet | The menacing helmet of a dark knight. | 1 | 0 | 1 |
+| ![Round Shield](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/wooden-shield.png?raw=true) | Round Shield | A sturdy oaken shield with an metal umbo. | 1 | -1 | 0 |
+| ![Snake Totem](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/snake-totem.png?raw=true) | Snake Totem | An ornate snake figurine hewn from cedar | 0 | 1 | 1 |
+| ![Cracked Helmet](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/cracked-helm.png?raw=true) | Cracked Helmet | An iron helm with a substantial crack. | 1 | 0 | 1 |
+| ![Loaded Dice](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/loaded-dice.png?raw=true) | Loaded Dice | A set of dice which always come up 7. | -1 | 1 | 1 |
+| ![Horned Helmet](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/horned-helmet.png?raw=true) | Horned Helmet | An imposing helmet with two horns. | -1 | 0 | 1 |
+
 
 ### 25% 
 	
-> These Artifacts each have a 25% chance to be added to the pool and can have one modifier of +/- 1 and one modifier of +/- 2, or 3 modifiers of +/- 1.
+> These Artifacts each have a 25% chance to be added to the pool and generally have one modifier of +/- 1 and one modifier of +/- 2, or 3 modifiers of +/- 1.
 
 | Image | Artifact | Description | Fortitude | Reflex | Willpower |
 |:-----:|:-------- |:----------- |:---------:|:------:|:---------:| 
