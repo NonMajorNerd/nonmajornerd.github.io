@@ -7,4 +7,4 @@ permalink: elitedangerous.html
 toc: false
 ---
 
-![Mariner Logo](\_assets\GFX\Elite\NMNMariner.png)
+![Mariner Logo](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/Elite/NMNMariner.png?raw=true)
