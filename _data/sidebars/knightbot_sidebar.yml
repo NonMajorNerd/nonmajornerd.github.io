@@ -23,7 +23,7 @@ entries:
     output: web, pdf
     folderitems:
     - title: KnightBot Home
-      url: /commands.html
+      url: /knightbot.html
       output: web
 
     - title: Archetypes

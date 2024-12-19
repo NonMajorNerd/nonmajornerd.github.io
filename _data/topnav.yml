@@ -5,20 +5,23 @@ topnav:
   items:
     - title: Home
       url: index.html
-
-#Topnav dropdowns
-topnav_dropdowns:
-- title: Topnav dropdowns
-  folders:
+    - title: Elite Dangerous
+      url: elitedangerous.html
     - title: KnightBot
-      folderitems:
-        - title: Archetypes
-          url: archetypes.html
-        - title: Commands
-          url: commands.html
-        - title: Events
-          url: events.html
-        - title: Redemptions
-          url: redemptions.html
+      url: knightbot.html
+#Topnav dropdowns
+#topnav_dropdowns:
+#- title: Topnav dropdowns
+#  folders:
+#    - title: KnightBot
+#      folderitems:
+#        - title: Archetypes
+#          url: archetypes.html
+#        - title: Commands
+#          url: commands.html
+#        - title: Events
+#          url: events.html
+#        - title: Redemptions
+#          url: redemptions.html
 
 # Copyright 2021 Google LLC
