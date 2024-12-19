@@ -19,8 +19,8 @@ summary: Every stream KnightBot generates a pool of Artifacts which modify your 
 
 | Image | Artifact | Description | Fortitude | Reflex | Willpower |
 |:-----:|:-------- |:----------- |:---------:|:------:|:---------:| 
-| <img src="https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/philosopher-bust.png?raw=true" width="60px" height="60px"> | Ancient Bust | A bust of the famous philosopher Borroni. | 0 | 0 | 1 |
-| <img src="https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/wingfoot.png?raw=true" width="60px" height="60px"> | Boots of Speed | Leather boots adorned with magical wings. | 0 | 1 | 0 |
+| ![Philosopher's Bust](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/philosopher-bust.png?raw=true) | Ancient Bust | A bust of the famous philosopher Borroni. | 0 | 0 | 1 |
+| ![Boots of Speed](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/wingfoot.png?raw=true) | Boots of Speed | Leather boots adorned with magical wings. | 0 | 1 | 0 |
 
 ## Chance Artifacts
 
