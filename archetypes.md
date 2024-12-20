@@ -23,6 +23,7 @@ toc: false
 | Cleric (★★★) | +1 | - | +2 |
 
 ## ![Archer](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Archer.png?raw=true) Archer Archetypes
+
 | Archetype | Fortitude | Reflex | Willpower |
 |:--------- |:---------:|:------:|:---------:| 
 | Archer (★☆☆) | - | +1 | - |
