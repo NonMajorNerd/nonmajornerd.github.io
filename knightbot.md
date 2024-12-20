@@ -4,13 +4,20 @@ keywords: nerd navy knightbot twitch channel bot chat
 tags: [Nerd_Navy, KnightBot]
 sidebar: knightbot_sidebar
 permalink: knightbot.html
-toc: false
 summary: KnightBot primarily functions as an announcer for the Channel Points RPG where you can create a Character, hunt for Artifacts, and compete against your friends in the twitch chat.
 ---
 
 ## Overview
 
-> Among the many things that KnightBot does, their primary purpose is to manage and run the Channel Points RPG. This is a role playing game which takes place directly in NonMajorNerd Twitch live streams. You can create a Character, hunt for Artifacts, compete against other viewers in friendly competition, and more.
+> KnightBot's primary purpose is to manage the Channel Points RPG. This is a role playing game which takes place directly in NonMajorNerd Twitch live streams. You can create a Character, hunt for Artifacts, compete against other viewers in friendly competition, and more.
+
+## Getting Started
+
+> To join the Channel Points RPG you must first make a Character. You can do this during NonMajorNerd's Twitch stream by finding the "New Character" Channel Point Redemption. This will be located in the Twitch Chat portion of the screen below where you type chat messages. This will cost 100 Nerd Notes - a currency you gain passively by watching NonMajorNerd stream.
+>
+> Characters have three primary stats - Fortitude, Reflex, and Willpower. Your Character's base stats are rolled when you create a new Character and will be between 3 and 18.
+
+<br>
 
 ## Archetypes
 
