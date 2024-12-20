@@ -3,8 +3,8 @@
 topnav:
 - title: Topnav
   items:
-    - title: Home
-      url: index.html
+ #   - title: Home
+ #     url: index.html
     - title: KnightBot
       url: knightbot.html
 #Topnav dropdowns
