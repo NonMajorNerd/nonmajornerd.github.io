@@ -5,6 +5,7 @@ tags: [Nerd_Navy, KnightBot]
 sidebar: knightbot_sidebar
 permalink: archetypes.html
 summary: Archetypes are sets of training and gear your Character can take on which modify their stats. There are five Archetype categories with three teirs of rarity each. 
+toc: false
 ---
 
 ## Overview
@@ -13,7 +14,7 @@ summary: Archetypes are sets of training and gear your Character can take on whi
 >
 > A Character may only have one Archetype at a time. If a second Archetype is collected, they must choose to either [keep](/commands.html#keeparchetype) their current Archetype or [replace](/commands.html#replacearchetype) it with the newly found Archetype.
 
-## ![Ancient Bust](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/philosopher-bust.png?raw=true) Acolyte Archetypes
+## ![Acolyte](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Acolyte.png?raw=true) Acolyte Archetypes
 
 | Archetype | Fortitude | Reflex | Willpower |
 |:--------- |:---------:|:------:|:---------:| 
@@ -21,15 +22,14 @@ summary: Archetypes are sets of training and gear your Character can take on whi
 | Healer (★★☆) | - | - | +2 |
 | Cleric (★★★) | +1 | - | +2 |
 
-## ![Ancient Bust](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/philosopher-bust.png?raw=true) Archer Archetypes
-
+## ![Archer](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Archer.png?raw=true) Archer Archetypes
 | Archetype | Fortitude | Reflex | Willpower |
 |:--------- |:---------:|:------:|:---------:| 
 | Archer (★☆☆) | - | +1 | - |
 | Ranger (★★☆) | - | +2 | - |
 | Warden (★★★) | - | +3 | - |
 
-## ![Ancient Bust](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/philosopher-bust.png?raw=true) Fighter Archetypes
+## ![Fighter](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Fighter.png?raw=true) Fighter Archetypes
 
 | Archetype | Fortitude | Reflex | Willpower |
 |:--------- |:---------:|:------:|:---------:| 
@@ -37,7 +37,7 @@ summary: Archetypes are sets of training and gear your Character can take on whi
 | Vanguard (★★☆) | +2 | - | - |
 | Champion (★★★) | +3 | - | - |
 
-## ![Ancient Bust](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/philosopher-bust.png?raw=true) Magi Archetypes
+## ![Magi](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Magi.png?raw=true) Magi Archetypes
 
 | Archetype | Fortitude | Reflex | Willpower |
 |:--------- |:---------:|:------:|:---------:| 
@@ -45,7 +45,7 @@ summary: Archetypes are sets of training and gear your Character can take on whi
 | Conjurer (★★☆) | - | - | +2 |
 | Sage (★★★) | - | +1 | +2 |
  
-## ![Ancient Bust](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Artifacts/philosopher-bust.png?raw=true) Thief Archetypes
+## ![Thief](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Thief.png?raw=true) Thief Archetypes
 
 | Archetype | Fortitude | Reflex | Willpower |
 |:--------- |:---------:|:------:|:---------:| 
