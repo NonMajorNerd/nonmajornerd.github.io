@@ -4,7 +4,7 @@ keywords: nerd navy knightbot twitch channel bot chat
 tags: [Nerd_Navy, KnightBot]
 sidebar: knightbot_sidebar
 permalink: knightbot.html
-summary: KnightBot primarily functions as an announcer for the Channel Points RPG where you can create a Character, hunt for Artifacts, and compete against your friends in the twitch chat.
+summary: KnightBot primarily functions as an announcer for the Channel Points RPG where you can create a Character, hunt for Artifacts, and compete against your friends in NonMajorNerd's twitch chat.
 ---
 
 ## Overview
