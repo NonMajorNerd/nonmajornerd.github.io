@@ -10,7 +10,7 @@ summary: KnightBot generates a pool of Artifacts which modify your Character's s
 ## Overview
 > An Artifact is a collectible item your Character can equip which modifies their stats. A pool of discoverable Artifacts is generated every stream and Characters can hunt for Artifacts from this pool by purchasing Artifact Maps. Some Artifacts are guaranteed to be in the pool while others have a chance to be included.
 >
-> A Character may only have one Artifact in their posession at a time. If a second Artifact is discovered, they must choose to either [keep](/commands.html#keepartifact-1) their current Artifact or [replace](/commands.html#replaceartifact-1) it with the newly found Artifact.
+> A Character may only have one Artifact in their posession at a time. If a second Artifact is discovered, they must choose to either [keep](/commands.html#keepartifact) their current Artifact or [replace](/commands.html#replaceartifact) it with the newly found Artifact.
 >
 > Once an Artifact has been discovered, it is removed from the
 
