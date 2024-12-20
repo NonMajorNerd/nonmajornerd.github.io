@@ -9,11 +9,11 @@ summary: KnightBot primarily functions as an announcer for the Channel Points RP
 
 ## Overview
 
-> KnightBot's primary purpose is to manage the Channel Points RPG. This is a role playing game which is played directly in ![NonMajorNerd's Twitch](https://www.twitch.tv/nonmajornerd) streams. You can create a Character, hunt for Artifacts, compete against other viewers in friendly competition, and more.
+> KnightBot's primary purpose is to manage the Channel Points RPG. This is a role playing game which is played directly in [NonMajorNerd's Twitch](https://www.twitch.tv/nonmajornerd) streams. You can create a Character, hunt for Artifacts, compete against other viewers in friendly competition, and more.
 
 ## Getting Started
 
-> To join the Channel Points RPG you must first make a Character. You can do this during ![NonMajorNerd's Twitch](https://www.twitch.tv/nonmajornerd) stream by finding the "New Character" Channel Point Redemption. This will be located in the Twitch Chat portion of the screen below where you type chat messages. This will cost 100 Nerd Notes - a currency you gain passively by watching NonMajorNerd stream.
+> To join the Channel Points RPG you must first make a Character. You can do this during [NonMajorNerd's Twitch](https://www.twitch.tv/nonmajornerd) stream with the "New Character" Channel Point Redemption found in the Twitch Chat portion of the screen below where you type chat messages. This will cost 100 Nerd Notes - a currency you gain passively by watching NonMajorNerd stream.
 >
 > Characters have three primary stats - Fortitude, Reflex, and Willpower. Your Character's base stats are rolled when you create a new Character and will be between 3 and 18.
 
