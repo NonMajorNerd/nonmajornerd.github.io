@@ -12,4 +12,4 @@ toc: false
 
 ### Character Card
 
-[Character Card](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/CharacterCardSmallAnnotated.png?raw=true)
+[Character Card](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/CharCardSmallAnnotated.png?raw=true)
