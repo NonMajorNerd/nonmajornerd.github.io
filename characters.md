@@ -10,7 +10,7 @@ toc: false
 
 ## Characters
 
-Your Character is a combination of statistics, a possible Archetype and Artifact, and your imagination. Your character serves as your representative in the game, your avatar in the Chat RPG world. Like the protagonists of a novel or a movie, Characters are at the center of the game’s action.
+Your Character is a combination of statistics, a possible Archetype and Artifact, and your imagination. Your character serves as your representative in the game, your avatar in the Chat RPG world. Like the protagonists of a novel or a movie, Character's are at the center of the game’s action.
 
 ### Character Card
 
@@ -18,20 +18,20 @@ Your Character's in-game objects and abilities are often summarized via the Char
 
 ![Character Card](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/CharCardSmallAnnotated.png?raw=true)
 
-1. Header
+#### 1. Header
   - The header includes your Character's name, the Archetype they have taken on, and their current level.
-    - Levels are gained through experience, which is not shown on the Character Card. Experience can be gained through various Events and other interactions with the game world.
-2. Archetype Icon
+    + Levels are gained through experience, which is not shown on the Character Card. Experience can be gained through various Events and other interactions with the game world.
+#### 2. Archetype Icon
   - This icon represents the Archetype your Character has currently taken on. 
-3. Character Statistics
-  - These are your Characters statistics, including any modifiers from their Archetype and Artifact.
-    - Fortitude
-	  - a
-    - Reflex
-	  - b
-	- Will
-	  - c
-4. Artifact Icon
+#### 3. Character Statistics
+  - These are your Character's statistics, including any modifiers from their Archetype and Artifact.
+    + Fortitude
+      * Fortitude represents your Character's physical strength and constitution. 
+    + Reflex
+      * Reflex represents your Character's agility and dexterity.
+    + Willpower
+      * Willpower represents your Characer's metal prowess and magical aptitude.
+#### 4. Artifact Icon
   - This icon represents the Artifact your Character currently has equipped.
-5. Gold
+#### 5. Gold
   - This represents the amount of gold your Character currently has. Gold is used in certain Redemptions such as purchasing an Artifact Map and can be gained through various Events and other interactions with the game world.
