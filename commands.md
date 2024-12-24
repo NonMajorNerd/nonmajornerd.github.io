@@ -12,33 +12,33 @@ summary: KnightBot has a number of commands you can enter via chat which follow 
 ### !KeepArchetype
 > _Alaises; !KeepArch, !KArchetype, !KArch_
 > 
-> This command is used after activating a Archetype Redemtpion to keep your character's current archetype and discard the newly rolled archetype. 
+> This command is used after activating a Archetype Redemtpion to keep your Character's current Archetype and discard the newly rolled Archetype. 
 
 ### !ReplaceArchetype
 > _Alaises; !ReplaceArch, !RArchetype, !RArch_
 > 
-> This command is used after activating a Archetype Redemtpion to replace your character's current archetype with the newly rolled archetype. 
+> This command is used after activating a Archetype Redemtpion to replace your Character's current Archetype with the newly rolled Archetype. 
 
 ## Artifact Commands
 
 ### !KeepArtifact
 > _Alaises; !KArtifact, !KeepArt, !KArt_
 >
-> This command is used after activating an Artifact Map Redemtpion to keep your character's current artifact and discard the newly discovered artifact. 
+> This command is used after activating an Artifact Map Redemtpion to keep your Character's current Artifact and discard the newly discovered Artifact. 
 
 ### !ReplaceArtifact
 > _Alaises; !ReplaceArt, !RArt_
 >
-> This command is used after activating an Artifact Map Redemtpion to replace your character's current artifact with the newly discovered artifact. 
+> This command is used after activating an Artifact Map Redemtpion to replace your Character's current Artifact with the newly discovered Artifact. 
 
 ## Character Commands
 
 ### !MyCharacter
 > _Alaises; !MyCharacter, !Character, !MyChar, !MChar, !Char, !MC_
 >
-> Displays the Character Card for your character on stream and broadcasts the Character Text for your character in chat.
+> Displays the Character Card for your Character on stream and broadcasts the Character Text for your Character in chat.
 
 ### !ReName _[Name]_
 > _Alaises; !RName, !Name, !RN_
 >
-> Will change your character name to the provided name. If no name is provided or if the name "Random" is provided, a random name will be chosen for your character.
+> Will change your Character's name to the name provided. If no name is provided or if the name "Random" is provided, a random name will be chosen for your Character.

@@ -8,9 +8,9 @@ summary: Channel point redemptions are the primary way to interact with the Chan
 ---
 
 ## Overview
-> Channel point redemptions are the primary way to interact with the Channel Points RPG and your Character. You will passively gain Channel Points (aka Nerd Notes) while watching [NonMajorNerd's Twitch](https://www.twitch.tv/nonmajornerd) streams.
+> You will passively gain Channel Points (aka Nerd Notes) while watching [NonMajorNerd's Twitch](https://www.twitch.tv/nonmajornerd) streams. These points can be spent on various Channel Point Redemptions described below, which are the primary way to interact with the Channel Points RPG and your Character. 
 >
-> Some redemptions may have a Gold cost in addition to the Channel Points. 
+> Some redemptions may have a Gold cost in addition to the cost in Channel Points. 
 
 ## New Character 
 > ![New Character Redemption](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Redemptions/arch.png?raw=true) Cost: 100 Nerd Notes <br>

@@ -11,6 +11,8 @@ toc: false
 ## Welcome
 > This site is heavily WIP and is being changed constantly. The primary content hosted here is the [KnightBot documentation](/knightbot.html).
 
+<br>
+
 > The remainder of this page offers various examples of Markdown usage and formatting.
 
 <br><br><br>
