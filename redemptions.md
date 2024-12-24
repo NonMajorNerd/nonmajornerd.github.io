@@ -1,6 +1,6 @@
 ---
 title: "KnightBot Redemptions"
-keywords: nerd navy knightbot twitch channel bot chat
+keywords: nerd navy non major nerd nonmajornerd knightbot twitch channel bot chat
 tags: [Nerd_Navy, KnightBot]
 sidebar: knightbot_sidebar
 permalink: redemptions.html
@@ -21,7 +21,7 @@ summary: Channel point redemptions are the primary way to interact with the Chan
 > When a Character is created, KnightBot will generate their primary stats (Fortitude, Reflex, and Willpower) by rolling 4 6-sided dice and taking the sum of those dice excluding the lowest roll.
 >
 > New Characters start at level one, with 0 experience and 0 Gold. 
->
+
 > More information on Characters can be found on the [Characters](/characters.html) page.
 
 ## Archetype
@@ -31,13 +31,12 @@ summary: Channel point redemptions are the primary way to interact with the Chan
 > When a Character rolls for a new Archetype, a 100-sided dice is rolled to determine which Archetype is discovered.
 >
 > There is a 55% chance to discover a Common Archetype, 35% chance to discover an Uncommon Archetype, and a 10% chance to discover a Rare Archetype.
->
->
+
 > More information on Archetypes can be found on the [Archetypes](/archetypes.html) page.
 
 ## Buy an Artifact Map
 > ![Artifact Map Redemption](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Redemptions/artmap.png?raw=true) Cost: 250 Nerd Notes, 45 Gold	<br>
-> <i>Buy a treasure map from the loremaster for 45 gold pieces in hopes that it will lead you to an artifact!</i>
+> <i><small>Buy a treasure map from the loremaster for 45 gold pieces in hopes that it will lead you to an artifact!</small></i>
 >
 > When a Character purchases an Artifact Map, they then make a single attempt to follow that map to discover an Artifact.
 >
@@ -46,12 +45,12 @@ summary: Channel point redemptions are the primary way to interact with the Chan
 > Each 2 points of Willpower above 10 adds an additional 10% chance of success. For example a Character with a Willpower of 14 would have a 60% chance to sucessfully discover an Artifact.
 >
 > Attempting to follow an Artifact map rewards 15 experience, and successfully discovering an Artifact rewards 35 experience.
-> 
+
 > More information on Artifacts can be found on the [Artifacts](/artifacts.html) page.
 
 ## Feats of Mastery
 > ![Feats of Mastery Redemption](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Redemptions/ticket.png?raw=true) Cost: 150 Nerd Notes, 15 Gold <br>
-> <i>Purchase a ticket to participate in the next Feats of Mastery event. Costs 15gp to enter but you could win twice that!</i>
+> <i><small>Purchase a ticket to participate in the next Feats of Mastery event. Costs 15gp to enter but you could win twice that!</small></i>
 >
 > Feats of Mastery is a competative player-versus-environment event in which three characters take on several challenges of increasing difficulty until eventually two characters are knocked out and one is declared the winner.
 >

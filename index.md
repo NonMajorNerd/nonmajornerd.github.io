@@ -1,19 +1,19 @@
 ---
 title: "Nerd Navy Command Center"
-keywords: sample homepage
+keywords: nerd navy non major nerd nonmajornerd twitch channel homepage
 tags: [Nerd_Navy]
-sidebar: mydoc_sidebar
+sidebar: exclude
 permalink: index.html
 summary: This is the Nerd Navy Command Center landing page as well as the official home of the KnightBot documentation.
+toc: false
 ---
 
 ## Welcome
+> This site is heavily WIP and is being changed constantly. The primary content hosted here is the [KnightBot documentation](/knightbot.html).
 
-This page is heavily WIP and is being changed constantly.
-The remainder of this page offers various examples of Markdown usage and formatting.
+> The remainder of this page offers various examples of Markdown usage and formatting.
 
-
-
+<br><br><br>
 
 # h1 Heading 8-)
 ## h2 Heading

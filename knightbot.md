@@ -1,6 +1,6 @@
 ---
 title: "KnightBot Overview"
-keywords: nerd navy knightbot twitch channel bot chat
+keywords: nerd navy non major nerd nonmajornerd knightbot twitch channel bot chat
 tags: [Nerd_Navy, KnightBot]
 sidebar: knightbot_sidebar
 permalink: knightbot.html
