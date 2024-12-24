@@ -4,17 +4,17 @@ keywords: nerd navy knightbot twitch channel bot chat
 tags: [Nerd_Navy, KnightBot]
 sidebar: knightbot_sidebar
 permalink: redemptions.html
-summary: Channel point redemptions are the primary way to interact with the Chat RPG and your Character. 
+summary: Channel point redemptions are the primary way to interact with the Channel Points RPG and your Character. 
 ---
 
 ## Overview
-> Channel point redemptions are the primary way to interact with the Chat RPG and your Character. You will passively gain Channel Points (aka Nerd Notes) while watching [NonMajorNerd's Twitch](https://www.twitch.tv/nonmajornerd) streams.
+> Channel point redemptions are the primary way to interact with the Channel Points RPG and your Character. You will passively gain Channel Points (aka Nerd Notes) while watching [NonMajorNerd's Twitch](https://www.twitch.tv/nonmajornerd) streams.
 >
 > Some redemptions may have a Gold cost in addition to the Channel Points. 
 
 ## New Character 
 > ![New Character Redemption](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Redemptions/arch.png?raw=true) Cost: 100 Nerd Notes <br>
-> <i>Create a new character for the !KnightBot RPG .. Enter your character's name or 'Random' for a random name. (Names must be 14 characters or fewer.)</i>
+> <i><small>Create a new character for the !KnightBot RPG .. Enter your character's name or 'Random' for a random name. (Names must be 14 characters or fewer.)</small></i>
 >
 > This redemption is how you create a Character for the Chat RPG. If you have an existing Character, creating a new one will replace that Character.
 >
@@ -26,7 +26,7 @@ summary: Channel point redemptions are the primary way to interact with the Chat
 
 ## Archetype
 > ![Archetype Redemption](https://github.com/NonMajorNerd/nonmajornerd.github.io/blob/main/_assets/GFX/KB/Redemptions/arch.png?raw=true) Cost: 300 Nerd Notes <br>
-> <i>Roll for a new Character Archetype! (55% Common, 35% Uncommon, 10% Rare)</i>
+> <i><small>Roll for a new Character Archetype! (55% Common, 35% Uncommon, 10% Rare)</small></i>
 >
 > When a Character rolls for a new Archetype, a 100-sided dice is rolled to determine which Archetype is discovered.
 >
