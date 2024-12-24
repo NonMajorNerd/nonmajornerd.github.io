@@ -7,10 +7,9 @@ permalink: characters.html
 summary: Your Character is a combination of statistics and possible Archetypes and Artifacts, and serves as your representative in the Chat RPG world.
 ---  
 
-## Characters
+## Overview
 
-Your Character is a combination of statistics, a possible Archetype and Artifact, and your imagination. Your Character serves as your representative in the game, your avatar in the Chat RPG world. Like the protagonists of a novel or a movie, Character's are at the center of the game’s action.
-
+> Your Character is a combination of statistics, a possible Archetype and Artifact, and your imagination. Your Character serves as your representative in the game, your avatar in the Chat RPG world. Like the protagonists of a novel or a movie, Character's are at the center of the game’s action.
 
 ### Character Card
 
