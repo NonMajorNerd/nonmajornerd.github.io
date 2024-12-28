@@ -4,11 +4,11 @@ keywords: nerd navy non major nerd nonmajornerd knightbot twitch channel bot cha
 tags: [Nerd_Navy, KnightBot]
 sidebar: knightbot_sidebar
 permalink: data.html
-toc:false
+toc: false
 ---  
 
 ## Overview
-> This is semi-live data from KnightBot which is typically updated shortly after every Twitch stream.
+> This is semi-live data from KnightBot which is typically updated shortly after every Twitch stream.<br>
 > This data was last updated {{ page.last-modified-date | date: '%B %d, %Y' }}.
 
 <table>
