@@ -9,7 +9,7 @@ toc: false
 
 ## Overview
 > This is semi-live data from KnightBot which is typically updated shortly after every Twitch stream.<br>
-> This data was last updated {{ page.last-modified-date | date: '%B %d, %Y' }}.
+> This data was last updated {% last-modified-at %}.
 
 <table>
   {% for row in site.data.CharacterData %}
