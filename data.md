@@ -22,7 +22,8 @@ toc: false
     {% tablerow pair in row %}
 		{% if pair[0] == "Name" %}
 			{% assign namedata = pair[1] | split: "/" %}
-			{{ namedata[0] }} <small>({{ namedata[1] }})</small>
+			{{ namedata[0] }}<br>
+			<small>({{ namedata[1] }})</small>
 		{% elsif pair[0] == "Archetype" %}
 			{% assign archdata = pair[1] | split: "/" %}
 			{% assign archimg = "<img src='" | append: "https://raw.githubusercontent.com/NonMajorNerd/nonmajornerd.github.io/refs/heads/main/_assets/GFX/KB/" | append: {{archdata[0]}} | append: ".png'>" %}
