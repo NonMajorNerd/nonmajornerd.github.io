@@ -23,7 +23,7 @@ toc:false
     {% tablerow pair in row %}
 		{% if pair[0] == "Archetype" %}
 			{% assign archdata = pair[1] | split: "/" %}
-			{% assign img = "<img src='" | concat: "https://raw.githubusercontent.com/NonMajorNerd/nonmajornerd.github.io/refs/heads/main/_assets/GFX/KB/" | concat: {{archdata[0]}} | concat: ".png'>" %}
+			{% assign img = "<img src='" | append: "https://raw.githubusercontent.com/NonMajorNerd/nonmajornerd.github.io/refs/heads/main/_assets/GFX/KB/" | append: {{archdata[0]}} | append: ".png'>" %}
 			{{ img }}
 			{{ archdata[1] }}
 		{% elsif pair[0] == "Artifact" %}
