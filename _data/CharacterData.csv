@@ -1,11 +1,11 @@
-owner,name,level,xp,gp,base_fortitude,base_reflex,base_willpower,archetype,artifact
-nottthebrave,NottTheBrave,1,10,150,10,12,13,Healer,{  }
-fifthcreepykid,FifthCreepyKid,2,113,170,12,15,12,null,{  }
-galanith,Galafar,4,348,155,13,14,12,Acolyte,"{ ""artName"": ""Hunting Bolas"", ""artDesc"": ""two stones on either end of interconnected cords."", ""artImg"": ""hunting-bolas"", ""spawn_chance"": 100, ""fort_mod"": 0, ""ref_mod"": 1, ""will_mod"": 0 }"
-darthjaper,DarthJaper,4,244,55,11,14,17,Rogue,"{ ""artName"": ""Warlord Helmet"", ""artDesc"": ""the menacing helmet of a dark knight."", ""artImg"": ""warlord-helmet"", ""spawn_chance"": 50, ""fort_mod"": 1, ""ref_mod"": 0, ""will_mod"": 1 }"
-nonmajornerd,Valafar,6,848,1005,18,18,18,Champion,"{ ""artName"": ""Philosopher Bust"", ""artDesc"": ""a bust of the famous philosopher Borroni."", ""artImg"": ""philosopher-bust"", ""spawn_chance"": 100, ""fort_mod"": 0, ""ref_mod"": 0, ""will_mod"": 1 }"
-metarract,Archibald,3,212,160,11,12,9,Conjurer,"{ ""artName"": ""Boots of Speed"", ""artDesc"": ""boots of leather with magical wings."", ""artImg"": ""wingfoot"", ""spawn_chance"": 100, ""fort_mod"": 0, ""ref_mod"": 1, ""will_mod"": 0 }"
-rolling_croww,Crowlaythe,1,70,190,12,7,10,null,{  }
-implifier,imp,1,20,180,10,12,7,Magi,{  }
-anxiousbean0,Callum,3,100,160,18,15,13,Fighter,{  }
-engreth_,Brick,3,155,125,14,14,13,Healer,"{ ""artName"": ""Warlord Helmet"", ""artDesc"": ""the menacing helmet of a dark knight."", ""artImg"": ""warlord-helmet"", ""spawn_chance"": 50, ""fort_mod"": 1, ""ref_mod"": 0, ""will_mod"": 1 }"
+owner,name,level,xp,gp,archetype,artifact
+nottthebrave,NottTheBrave,1,10,150,10,12,"<img src=""/_assets/GFX/KB/Acolyte.png""> Healer (★★☆)",None
+fifthcreepykid,FifthCreepyKid,2,113,170,12,15,Peasant,None
+galanith,Galafar,4,348,155,13,15,"<img src=""/_assets/GFX/KB/Acolyte.png""> Acolyte (★☆☆)","<img src=""/_assets/GFX/KB/Artifacts/hunting-bolas.png""> Hunting Bolas"
+darthjaper,DarthJaper,4,244,55,12,16,"<img src=""/_assets/GFX/KB/Thief.png""> Rogue (★★☆)","<img src=""/_assets/GFX/KB/Artifacts/warlord-helmet.png""> Warlord Helmet"
+nonmajornerd,Valafar,6,848,1005,20,18,"<img src=""/_assets/GFX/KB/Fighter.png""> Champion (★★★)","<img src=""/_assets/GFX/KB/Artifacts/philosopher-bust.png""> Philosopher Bust"
+metarract,Archibald,3,212,160,11,13,"<img src=""/_assets/GFX/KB/Magi.png""> Conjurer (★★☆)","<img src=""/_assets/GFX/KB/Artifacts/wingfoot.png""> Boots of Speed"
+rolling_croww,Crowlaythe,1,70,190,12,7,Peasant,None
+implifier,imp,1,20,180,9,12,"<img src=""/_assets/GFX/KB/Magi.png""> Magi (★☆☆)",None
+anxiousbean0,Callum,3,100,160,20,14,"<img src=""/_assets/GFX/KB/Fighter.png""> Fighter (★☆☆)",None
+engreth_,Brick,3,155,125,15,14,"<img src=""/_assets/GFX/KB/Acolyte.png""> Healer (★★☆)","<img src=""/_assets/GFX/KB/Artifacts/warlord-helmet.png""> Warlord Helmet"
