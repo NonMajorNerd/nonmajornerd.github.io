@@ -1,11 +1,11 @@
-owner,name,level,xp,gp,base_fortitude,base_reflex,base_willpower,archetype,archetype_rating,tempArch,tempArchRating,dungeonLevel,artifact,tempArtifact,fomFailCount
-nottthebrave,NottTheBrave,1,10,150,10,12,13,Healer,2,null,0,0,{  },{  },3
-fifthcreepykid,FifthCreepyKid,2,113,170,12,15,12,null,0,null,0,0,{  },{  },0
-galanith,Galafar,4,348,155,13,14,12,Acolyte,1,null,0,0,"{ ""artName"": ""Hunting Bolas"", ""artDesc"": ""two stones on either end of interconnected cords."", ""artImg"": ""hunting-bolas"", ""spawn_chance"": 100, ""fort_mod"": 0, ""ref_mod"": 1, ""will_mod"": 0 }",{  },0
-darthjaper,DarthJaper,4,244,55,11,14,17,Rogue,2,null,0,0,"{ ""artName"": ""Warlord Helmet"", ""artDesc"": ""the menacing helmet of a dark knight."", ""artImg"": ""warlord-helmet"", ""spawn_chance"": 50, ""fort_mod"": 1, ""ref_mod"": 0, ""will_mod"": 1 }",{  },5
-nonmajornerd,Valafar,6,848,1005,18,18,18,Champion,3,null,0,0,"{ ""artName"": ""Philosopher Bust"", ""artDesc"": ""a bust of the famous philosopher Borroni."", ""artImg"": ""philosopher-bust"", ""spawn_chance"": 100, ""fort_mod"": 0, ""ref_mod"": 0, ""will_mod"": 1 }","{ ""artName"": ""Bone Knife"", ""artDesc"": ""a sharp stone blade tied to some sort of bone."", ""artImg"": ""bone-knife"", ""spawn_chance"": 25, ""fort_mod"": 1, ""ref_mod"": 1, ""will_mod"": -1 }",8
-metarract,Archibald,3,212,160,11,12,9,Conjurer,2,null,0,0,"{ ""artName"": ""Boots of Speed"", ""artDesc"": ""boots of leather with magical wings."", ""artImg"": ""wingfoot"", ""spawn_chance"": 100, ""fort_mod"": 0, ""ref_mod"": 1, ""will_mod"": 0 }","{ ""artName"": ""Cracked Helmet"", ""artDesc"": ""an iron helm with a substantial crack."", ""artImg"": ""cracked-helm"", ""spawn_chance"": 50, ""fort_mod"": 1, ""ref_mod"": 0, ""will_mod"": 1 }",4
-rolling_croww,Crowlaythe,1,70,190,12,7,10,null,0,null,0,0,{  },{  },0
-implifier,imp,1,20,180,10,12,7,Magi,1,null,0,0,{  },{  },1
-anxiousbean0,Callum,3,100,160,18,15,13,Fighter,1,null,0,0,{  },{  },0
-engreth_,Brick,3,155,125,14,14,13,Healer,2,null,0,0,"{ ""artName"": ""Warlord Helmet"", ""artDesc"": ""the menacing helmet of a dark knight."", ""artImg"": ""warlord-helmet"", ""spawn_chance"": 50, ""fort_mod"": 1, ""ref_mod"": 0, ""will_mod"": 1 }",{  },1
+owner,name,level,xp,gp,base_fortitude,base_reflex,base_willpower,archetype,artifact
+nottthebrave,NottTheBrave,1,10,150,10,12,13,Healer,{  }
+fifthcreepykid,FifthCreepyKid,2,113,170,12,15,12,null,{  }
+galanith,Galafar,4,348,155,13,14,12,Acolyte,"{ ""artName"": ""Hunting Bolas"", ""artDesc"": ""two stones on either end of interconnected cords."", ""artImg"": ""hunting-bolas"", ""spawn_chance"": 100, ""fort_mod"": 0, ""ref_mod"": 1, ""will_mod"": 0 }"
+darthjaper,DarthJaper,4,244,55,11,14,17,Rogue,"{ ""artName"": ""Warlord Helmet"", ""artDesc"": ""the menacing helmet of a dark knight."", ""artImg"": ""warlord-helmet"", ""spawn_chance"": 50, ""fort_mod"": 1, ""ref_mod"": 0, ""will_mod"": 1 }"
+nonmajornerd,Valafar,6,848,1005,18,18,18,Champion,"{ ""artName"": ""Philosopher Bust"", ""artDesc"": ""a bust of the famous philosopher Borroni."", ""artImg"": ""philosopher-bust"", ""spawn_chance"": 100, ""fort_mod"": 0, ""ref_mod"": 0, ""will_mod"": 1 }"
+metarract,Archibald,3,212,160,11,12,9,Conjurer,"{ ""artName"": ""Boots of Speed"", ""artDesc"": ""boots of leather with magical wings."", ""artImg"": ""wingfoot"", ""spawn_chance"": 100, ""fort_mod"": 0, ""ref_mod"": 1, ""will_mod"": 0 }"
+rolling_croww,Crowlaythe,1,70,190,12,7,10,null,{  }
+implifier,imp,1,20,180,10,12,7,Magi,{  }
+anxiousbean0,Callum,3,100,160,18,15,13,Fighter,{  }
+engreth_,Brick,3,155,125,14,14,13,Healer,"{ ""artName"": ""Warlord Helmet"", ""artDesc"": ""the menacing helmet of a dark knight."", ""artImg"": ""warlord-helmet"", ""spawn_chance"": 50, ""fort_mod"": 1, ""ref_mod"": 0, ""will_mod"": 1 }"
