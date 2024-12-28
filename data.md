@@ -10,7 +10,7 @@ toc: false
 ## Overview
 > This is Character data from KnightBot which is typically updated shortly after every [Twitch](https://www.twitch.tv/nonmajornerd) stream.
 
-<table style="vertical-align:middle">
+<table>
   {% for row in site.data.CharacterData %}
     {% if forloop.first %}
     <tr>
