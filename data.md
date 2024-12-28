@@ -1,9 +1,9 @@
 ---
-title: "KnightBot Data"
+title: "KnightBot Hall of Heroes"
 keywords: nerd navy non major nerd nonmajornerd knightbot twitch channel bot chat
 tags: [Nerd_Navy, KnightBot]
 sidebar: knightbot_sidebar
-permalink: data.html
+permalink: heroes.html
 toc: false
 ---  
 

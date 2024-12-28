@@ -46,8 +46,8 @@ entries:
       url: /redemptions.html
       output: web
 
-    - title: Character Database
-      url: /data.html
+    - title: Hall of Heroes
+      url: /heroes.html
       output: web
 
 
