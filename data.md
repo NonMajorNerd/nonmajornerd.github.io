@@ -27,13 +27,13 @@ toc:false
 			{{ archimg }}
 			{{ archdata[1] }}
 		{% elsif pair[0] == "Artifact" %}
-			{% if pair[1] != "None" %}
-				{% assign artdata = pair[1] | split: "/" %}
+			{% assign artdata = pair[1] | split: "/" %}
+			{% if artdata[0] != "None" %}
 				{% assign artimg = "<img src='" | append: "https://raw.githubusercontent.com/NonMajorNerd/nonmajornerd.github.io/refs/heads/main/_assets/GFX/KB/Artifacts/" | append: {{artdata[0]}} | append: ".png'>" %}
 				{{ artimg }}
 				{{ artdata[1] }}
 			{% else %}
-				{{ pair[1] }}
+				{{ artdata[0] }}
 			{% endif %}
 		{% else %}
 			{{ pair[1] }}
