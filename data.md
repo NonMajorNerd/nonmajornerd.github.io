@@ -20,20 +20,16 @@ toc:false
       {% endfor %}
     </tr>
     {% endif %}
-
     {% tablerow pair in row %}
-	
-		{% if pair[0] == "Archetype" %"}
-			{% assign data = pair[1] | split: "/" %}
-			data[1]
-			
-		{% elseif pair[0] == "Artifact" %"}
-			{% assign data = pair[1] | split: "/" %}
-			data[1]
-			
+		{% if pair[0] == "Archetype" %}
+			{% assign archdata = pair[1] | split: "/" %}
+			{{ archdata[1] }}
+		{% elseif pair[0] == "Artifact" %}
+			{% assign artdata = pair[1] | split: "/" %}
+			{{ artdata[1] }}
 		{% else %}
 			{{ pair[1] }}
-		{% endif%}
+		{% endif %}
     {% endtablerow %}
   {% endfor %}
 </table>
