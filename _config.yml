@@ -112,12 +112,4 @@ description: "Home for all things Nerd Navy including KnightBot documentation."
 
 github: [metadata]
 
-# https://github.com/gjtorikian/jekyll-last-modified-at
-plugins:
-  - jekyll-last-modified-at
-
-# Optional. The default date format, used if none is specified in the tag.
-last-modified-at:
-    date-format: '%d-%b-%y'
-
 # Copyright 2021 Google LLC
