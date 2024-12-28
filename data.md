@@ -24,7 +24,7 @@ toc:false
 		{% if pair[0] == "Archetype" %}
 			{% assign archdata = pair[1] | split: "/" %}
 			{{ archdata[1] }}
-		{% elseif pair[0] == "Artifact" %}
+		{% elsif pair[0] == "Artifact" %}
 			{% assign artdata = pair[1] | split: "/" %}
 			{{ artdata[1] }}
 		{% else %}
