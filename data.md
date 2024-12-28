@@ -8,7 +8,7 @@ toc: false
 ---  
 
 ## Overview
-> This is semi-live data from KnightBot which is typically updated shortly after every Twitch stream.
+> This is current Character data from KnightBot which is typically updated shortly after every [Twitch](https://www.twitch.tv/nonmajornerd) stream.
 
 <table>
   {% for row in site.data.CharacterData %}

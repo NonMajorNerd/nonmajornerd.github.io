@@ -20,7 +20,7 @@ entries:
       type: frontmatter
 
   - title: KnightBot
-    output: web, pdf
+    output: web
     folderitems:
     - title: Overview
       url: /knightbot.html
@@ -28,22 +28,27 @@ entries:
 
     - title: Archetypes
       url: /archetypes.html
-      output: web, pdf
+      output: web
       
     - title: Artifacts
       url: /artifacts.html
-      output: web, pdf
+      output: web
       
     - title: Characters
       url: /characters.html
-      output: web, pdf
+      output: web
       
     - title: Commands
       url: /commands.html
-      output: web, pdf
+      output: web
 
     - title: Redemptions
       url: /redemptions.html
-      output: web, pdf
+      output: web
+
+    - title: Character Database
+      url: /data.html
+      output: web
+
 
 # Copyright 2021 Google LLC
