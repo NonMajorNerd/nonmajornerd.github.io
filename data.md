@@ -22,6 +22,33 @@ toc:false
     {% endif %}
 
     {% tablerow pair in row %}
+	
+		{% if pair[0] == "Archetype" %"}
+			{% assign data = pair[1] | split: "/" %}
+			data[1]
+			
+		{% elseif pair[0] == "Artifact" %"}
+			{% assign data = pair[1] | split: "/" %}
+			data[1]
+			
+		{% else %}
+			{{ pair[1] }}
+		{% endif%}
+    {% endtablerow %}
+  {% endfor %}
+</table>
+
+<table>
+  {% for row in site.data.CharacterData %}
+    {% if forloop.first %}
+    <tr>
+      {% for pair in row %}
+        <th>{{ pair[0] }}</th>
+      {% endfor %}
+    </tr>
+    {% endif %}
+
+    {% tablerow pair in row %}
       {{ pair[1] }}
     {% endtablerow %}
   {% endfor %}
