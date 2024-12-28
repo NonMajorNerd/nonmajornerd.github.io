@@ -27,13 +27,13 @@ toc: false
 		{% elsif pair[0] == "Archetype" %}
 			{% assign archdata = pair[1] | split: "/" %}
 			{% assign archimg = "<img src='" | append: "https://raw.githubusercontent.com/NonMajorNerd/nonmajornerd.github.io/refs/heads/main/_assets/GFX/KB/" | append: {{archdata[0]}} | append: ".png'>" %}
-			{{ archimg }}
+			{{ archimg }}<br>
 			{{ archdata[1] }}
 		{% elsif pair[0] == "Artifact" %}
 			{% assign artdata = pair[1] | split: "/" %}
 			{% if artdata[0] != "None" %}
 				{% assign artimg = "<img src='" | append: "https://raw.githubusercontent.com/NonMajorNerd/nonmajornerd.github.io/refs/heads/main/_assets/GFX/KB/Artifacts/" | append: {{artdata[0]}} | append: ".png'>" %}
-				{{ artimg }}
+				{{ artimg }}<br>
 				{{ artdata[1] }}
 			{% else %}
 				{{ artdata[0] }}
