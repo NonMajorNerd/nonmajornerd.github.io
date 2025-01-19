@@ -8,7 +8,8 @@ toc: false
 ---  
 
 ## Overview
-> This is Character data from KnightBot which is typically updated shortly after every [Twitch](https://www.twitch.tv/nonmajornerd) stream.
+> This is Character data from KnightBot which is typically updated shortly after every [Twitch](https://www.twitch.tv/nonmajornerd) stream. <br>
+<small>Last updated Jan 19 2025</small>
 
 <table>
   {% for row in site.data.CharacterData %}
@@ -43,4 +44,5 @@ toc: false
 		{% endif %}
     {% endtablerow %}
   {% endfor %}
-</table>
+  </table>
+
