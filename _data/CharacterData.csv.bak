@@ -1,11 +1,13 @@
 Name,Level,XP,Gold,Fortitude,Reflex,Willpower,Archetype,Artifact
 Archibald/metarract,3,212,160,11,13,11,Magi/Conjurer (★★☆),wingfoot/Boots of Speed
 Brick/engreth_,3,155,125,15,14,16,Acolyte/Healer (★★☆),warlord-helmet/Warlord Helmet
-Callum/anxiousbean0,3,100,160,20,14,13,Fighter/Fighter (★☆☆),None/None
+Callum/anxiousbean0,3,135,115,18,17,14,Archer/Archer (★☆☆),snake-totem/Snake Totem
 Crowlaythe/rolling_croww,1,70,190,12,7,10,Peasant/Peasant,None/None
 DarthJaper/darthjaper,4,244,55,12,16,18,Thief/Rogue (★★☆),warlord-helmet/Warlord Helmet
+Dillyyy/dillytodds,1,35,155,15,16,17,Acolyte/Cleric (★★★),wooden-shield/Round Shield
 FifthCreepyKid/fifthcreepykid,2,113,170,12,15,12,Peasant/Peasant,None/None
 Galafar/galanith,4,348,155,13,15,13,Acolyte/Acolyte (★☆☆),hunting-bolas/Hunting Bolas
 imp/implifier,1,20,180,9,12,9,Magi/Magi (★☆☆),None/None
 NottTheBrave/nottthebrave,1,10,150,10,12,15,Acolyte/Healer (★★☆),None/None
-Valafar/nonmajornerd,6,848,1005,20,18,19,Fighter/Champion (★★★),philosopher-bust/Philosopher Bust
+Reina/lady_rei,1,0,170,12,10,16,Magi/Magi (★☆☆),None/None
+Valafar/nonmajornerd,6,848,1005,20,19,17,Fighter/Champion (★★★),bone-knife/Bone Knife
