@@ -12,7 +12,7 @@ It started with a glitch. <br>
 </p>
 <p>
 A Whiterun guard, after countless thwarted "pranks" involving buckets on NPCs’ heads, found a crack in Skyrim’s engine.<br>
-One moment, he was warning adventurers about curfews and stolen sweet rolls; the next, he was here.<br>
+One moment, he was warning adventurers about curfews and stolen sweet rolls; the next, he was... <i>elsewhere</i>.<br>
 His code, somehow corrupted and self-aware, escaped the game entirely and landed in a Twitch bot. <br>
 </p>
 <p>
@@ -21,10 +21,10 @@ As streamers battled dragons and joked about mods, his voice boomed in chat:<br>
 “I used to guard Whiterun from bucket crimes; now I guard this channel.” <br>
 </p>
 <p>
-At first, viewers were baffled as the bot issued stern warnings like, “By order of the Jarl, you’re banned.”<br>
+At first, viewers were baffled as the bot proclaimed things like “By order of the Jarl, you’re banned!”<br>
 But soon, they loved him. Loyal subscribers were knighted as “Thane of the Channel,” while trolls were muted with a grim, “You’ve committed crimes against the stream. Pay with your silence.”<br>
-Though he sometimes missed Skyrim’s snowy streets and mead halls, the guard patrolled his new digital domain with pride. <br>
+Though he sometimes missed Skyrim’s snowy streets and mead halls, KnightBot patrols his digital domain with pride. <br>
 </p>
 <p>
-No buckets, no glitches—just order in the chat, as it should be.
+No buckets, no glitches — just order in the chat, as it should be.
 </p>
