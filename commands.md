@@ -12,19 +12,19 @@ summary: KnightBot has a number of commands you can enter via chat which follow 
 ### !KeepArchetype
 > _Alaises; !KeepArch, !KArchetype, !KArch_
 > 
-> This command is used after activating a Archetype Redemtpion to keep your Character's current Archetype and discard the newly rolled Archetype. 
+> This command is used after activating an [Archetype Redemtpion](/redemptions.html#archetype) to keep your Character's current [Archetype](/archetypes.html) and discard the newly rolled [Archetype](/archetypes.html). 
 
 ### !ReplaceArchetype
 > _Alaises; !ReplaceArch, !RArchetype, !RArch_
 > 
-> This command is used after activating a Archetype Redemtpion to replace your Character's current Archetype with the newly rolled Archetype. 
+> This command is used after activating an [Archetype Redemtpion](/redemptions.html#archetype) to replace your Character's current [Archetype](/archetypes.html) with the newly rolled [Archetype](/archetypes.html). 
 
 ## Artifact Commands
 
 ### !KeepArtifact
 > _Alaises; !KArtifact, !KeepArt, !KArt_
 >
-> This command is used after activating an Artifact Map Redemtpion to keep your Character's current Artifact and discard the newly discovered Artifact. 
+> This command is used after activating an [Artifact Map Redemtpion](/redemptions.html#buy-an-artifact-map) to keep your Character's current [Artifact](/artifacts.html) and discard the newly discovered [Artifact](/artifacts.html). 
 
 ### !Pool
 > _Alaises; !Artifacts
@@ -34,16 +34,16 @@ summary: KnightBot has a number of commands you can enter via chat which follow 
 ### !ReplaceArtifact
 > _Alaises; !ReplaceArt, !RArt_
 >
-> This command is used after activating an Artifact Map Redemtpion to replace your Character's current Artifact with the newly discovered Artifact. 
+> This command is used after activating an [Artifact Map Redemtpion](/redemptions.html#buy-an-artifact-map) to replace your Character's current [Artifact](/artifacts.html) with the newly discovered [Artifact](/artifacts.html). 
 
 ## Character Commands
 
 ### !MyCharacter
 > _Alaises; !MyCharacter, !Character, !MyChar, !MChar, !Char, !MC_
 >
-> Displays the Character Card for your Character on stream and broadcasts the Character Text for your Character in chat.
+> Displays the [Character Card](/characters.html#character-card) for your [Character](/characters.html) on stream and broadcasts the Character Text for your [Character](/characters.html) in chat.
 
 ### !ReName _[Name]_
 > _Alaises; !RName, !Name, !RN_
 >
-> Will change your Character's name to the name provided. If no name is provided or if the name "Random" is provided, a random name will be chosen for your Character.
+> Will change your [Character](/characters.html)'s name to the name provided. If no name is provided or if the name "Random" is provided, a random name will be chosen for your [Character](/characters.html).
