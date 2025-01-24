@@ -27,7 +27,7 @@ summary: KnightBot has a number of commands you can enter via chat which follow 
 > This command is used after activating an [Artifact Map Redemtpion](/redemptions.html#buy-an-artifact-map) to keep your Character's current [Artifact](/artifacts.html) and discard the newly discovered [Artifact](/artifacts.html). 
 
 ### !Pool
-> _Alaises; !Artifacts
+> _Alaises; !Artifacts_
 >
 > This command is used to see which [Chance Artifacts](/artifacts.html#chance-artifacts) are in the current Artifact pool.
 
