@@ -22,8 +22,10 @@ As streamers battled dragons and joked about mods, his voice boomed in chat:<br>
 </p>
 <p>
 At first, viewers were baffled at the things KnightBot proclaimed, but soon they loved him.<br>
-Loyal subscribers were granted titles like “Thane of the Channel” and "The Triumphant Jarl".
+Loyal subscribers were granted titles like “Thane of the Channel” and "The Triumphant Jarl".<br>
 Trolls were muted with a grim “You’ve committed crimes against the stream. Pay with your silence.”<br>
+</p>
+<p>
 Though he sometimes reminisces of Skyrim’s snowy streets and mead halls, KnightBot patrols his digital domain with pride. <br>
 </p>
 <p>
