@@ -21,10 +21,11 @@ As streamers battled dragons and joked about mods, his voice boomed in chat:<br>
 “I used to guard Whiterun from bucket crimes; now I guard this channel.” <br>
 </p>
 <p>
-At first, viewers were baffled as the bot proclaimed things like “By order of the Jarl, you’re banned!”<br>
-But soon, they loved him. Loyal subscribers were knighted as “Thane of the Channel,” while trolls were muted with a grim, “You’ve committed crimes against the stream. Pay with your silence.”<br>
+At first, viewers were baffled at the things KnightBot proclaimed, but soon they loved him.<br>
+Loyal subscribers were knighted as “Thane of the Channel”.
+Trolls were muted with a grim “You’ve committed crimes against the stream. Pay with your silence.”<br>
 Though he sometimes missed Skyrim’s snowy streets and mead halls, KnightBot patrols his digital domain with pride. <br>
 </p>
 <p>
-No buckets, no glitches — just order in the chat, as it should be.
+No buckets, no glitches — just order and safety in the chat.
 </p>
