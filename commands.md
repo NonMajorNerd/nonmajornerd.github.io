@@ -29,7 +29,7 @@ summary: KnightBot has a number of commands you can enter via chat which follow 
 ### !Pool
 > _Alaises; !Artifacts
 >
-> This command is used to see which Chance Artifacts are in the current Artifact pool.
+> This command is used to see which [Chance Artifacts](/artifacts.html#chance-artifacts) are in the current Artifact pool.
 
 ### !ReplaceArtifact
 > _Alaises; !ReplaceArt, !RArt_
