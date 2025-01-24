@@ -1,14 +1,12 @@
 ---
-title: "Nerd Navy Command Center"
+title: "Who is KnightBot?"
 keywords: nerd navy non major nerd nonmajornerd twitch channel homepage
 tags: [Nerd_Navy]
 sidebar: exclude
 permalink: index.html
 toc: false
-strip_title: true
 ---
 
-### Who is KnightBot?
 > It started with a glitch. <br>
 > 
 > A Whiterun guard, tired of endless patrols and thwarting "pranks" involving buckets on NPCs’ heads, found a crack in Skyrim’s engine.
