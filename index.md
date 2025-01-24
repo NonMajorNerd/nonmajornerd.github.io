@@ -11,7 +11,7 @@ toc: false
 It started with a glitch. <br>
 </p>
 <p>
-A Whiterun guard, after countless thwarted "pranks" involving buckets on NPCs’ heads, found a crack in Skyrim’s engine.<br>
+A Whiterun guard, after countless cold patrols over the cobblestones, found a crack in Skyrim’s engine.<br>
 One moment, he was warning adventurers about curfews and stolen sweet rolls; the next, he was... <i>elsewhere</i>.<br>
 His code, somehow corrupted and self-aware, escaped the game entirely and landed in Twitch. <br>
 </p>
